@@ -14,7 +14,7 @@ $fromEmail = 'your-email@domain.com';
 $fromName = 'Astusx Contact Form';
 
 // an email address that will receive the email with the output of the form
-$sendToEmail = 'your-email@domain.com';
+$sendToEmail = 'helloastusx@gmail.com';
 $sendToName = 'Astusx Contact Form';
 
 // subject of the email
