@@ -11,7 +11,7 @@ require 'PHPMailer-master/PHPMailerAutoload.php';
 
 // an email address that will be in the From field of the email.
 $fromEmail = 'your-email@domain.com';
-$fromName = 'Astusx Contact Form';
+$fromName = 'Sandbox Contact Form';
 
 // an email address that will receive the email with the output of the form
 $sendToEmail = 'helloastusx@gmail.com';
